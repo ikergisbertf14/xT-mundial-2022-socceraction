@@ -52,7 +52,7 @@ Los 8 jugadores con más xT por 90 minutos (mínimo 45 minutos jugados). Naranja
 Necesitas Python 3.9. En PowerShell:
 
 ```
-git clone https://github.com/ikergisbertf14/xt-mundial-2022-socceraction.git
+git clone https://github.com/ikergisbertf14/xT-mundial-2022-socceraction.git
 cd xt-mundial-2022-socceraction
 python -m venv .venv_xt
 .\.venv_xt\Scripts\Activate.ps1
