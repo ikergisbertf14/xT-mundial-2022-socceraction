@@ -1,0 +1,6 @@
+socceraction==1.5.3
+mplsoccer==1.5.0
+pandas==2.3.3
+matplotlib==3.9.4
+multimethod==1.12
+ipykernel
